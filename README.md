@@ -1,8 +1,7 @@
-# Retky-Portfolio
+# Mv-HideAndSeek
 
-> This is the Portfolio Website of "J. Luis (Retky) Arredondo A."
+> This copy of a project, is hidding some bougs to resolve
 >
-> Following the template of Microverse-Student-project-1, found at Figma.
 
 ## Live Preview
 *Click the Image below*
@@ -31,12 +30,7 @@ If you haven't yet, you should first [set up Git.](https://docs.github.com/en/ge
   - Change the current working directory to the location where you want the cloned directory
   - Type `git clone`, and then paste the URL you copied earlier
   - Press Enter. Your local clone will be created
-
-**OR**
-
-- Fork the repository
-  - In the top-right corner of the page, click Fork
-  - Work in the forked repository
+- Create a new issue & comment the bugs
 
 ## Author
 
@@ -44,29 +38,6 @@ If you haven't yet, you should first [set up Git.](https://docs.github.com/en/ge
 - GitHub: [@Retky](https://github.com/Retky "J. Luis Arredondo GitHub")
 - Twitter: [@RetkyFox](https://twitter.com/retkyFox "J. Luis Arredondo Twitter")
 - LinkedIn: [Retky](https://www.linkedin.com/in/Retky "J. Luis Arredondo LinkedIn")
-
-## Major Contributors
-
-👤 **Fernando Saldaña**
-- GitHub: [@fasaldana](https://github.com/fasaldana)
-- Twitter: [@Fernandosal98](https://twitter.com/Fernandosal98)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fernando-saldana-8bbb89228/)
-
-👤 **Judá F Teixeira**
-- GitHub: [@mrjuda](https://github.com/mrjuda)
-- LinkedIn: [@judateixeira](https://www.linkedin.com/in/judateixeira)
-
-👤 **Have Samuel**
-
-- GitHub: [@githubhandle](https://github.com/Have-Samuel)
-- Twitter: [@twitterhandle](https://twitter.com/home)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/feed)
-
-👤 Oscar Bermudez
-
-- GitHub: [@githubhandle](https://github.com/zkr024)
-- Twitter: [@twitterhandle](https://twitter.com/zkr024)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/oscar-bermudez-07908222a)
 
 ## 🤝 Contributing
 
