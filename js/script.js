@@ -16,7 +16,7 @@ burger.addEventListener('click', () => {
 menu.addEventListener('click', () => {
   menu.classList.remove('moveIn');
   burger.src = 'img/Menu.png';
-  menuClick = 0;
+
 });
 
 // ↓POPUP WINDOWS↓
@@ -155,7 +155,7 @@ for (let i = 0; i < seeWork.length; i += 1) {
 }
 
 // ↓FORM VALIDATION↓
-// Locate te form
+// Locate the form
 const form = document.getElementById('form');
 // Locate the email
 const formEmail = form.email;
@@ -175,7 +175,7 @@ function checkLowercase(str) {
 form.addEventListener('submit', (event) => {
   const validEmail = checkLowercase(formEmail.value);
   // Prevent submit & show indication
-  if (!validEmail) {
+  if (validEmail) {
     event.preventDefault();
     showMsg();
   }
@@ -198,7 +198,7 @@ form.addEventListener('change', (event) => {
 // This check for localStorage
 if (localStorage) {
   // This hold the localStorage
-  const local = JSON.parse(localStorage.getItem('formData'));
+  const local = localStorage.getItem('formData');
   // This insert the localStorage to the formData obj
   Object.assign(formData, local);
   // print values in the form
